@@ -1,70 +1,61 @@
-# ☕ Blue Bottle Coffee Website – Redesign (Homepage)
+# ☕ Blue Bottle Coffee – Homepage Redesign
 
 ## 🎯 Objective
-This project focuses on redesigning the homepage of the **Blue Bottle Coffee** website to create a cleaner, more modern, and visually balanced layout while maintaining the brand’s elegant and minimalist identity.
+This project focuses on **redesigning the homepage** of the **Blue Bottle Coffee** website to create a clean, modern, and elegant look that improves usability, visual hierarchy, and overall user experience.
 
 ---
 
 ## 💡 Project Description
-The redesign enhances both **UI (User Interface)** and **UX (User Experience)** by improving:
-- Visual hierarchy  
-- Typography consistency  
-- Product visibility  
-- Navigation clarity  
-
-The updated design makes browsing smoother and creates a visually pleasing experience for coffee lovers.
-
-### ✨ Key Highlights
-- Redesigned **Hero Section** showcasing Craft Matcha  
-- Simplified **Best Sellers** layout  
-- Organized **Shop by Collection** section  
-- Elegant typography and color system  
-- Improved white space for readability  
+The goal of this redesign is to simplify the interface, enhance readability, and make the layout feel more open and welcoming.  
+I kept the original content structure but improved spacing, typography, and color balance for a refined and premium feel.
 
 ---
 
 ## 🎨 Design Details
 
 ### 🖋 Fonts Used
-- **Poppins** – for headings and navigation (modern and geometric)
-- **Playfair Display** – for body text and subheadings (classic and elegant)
-
-### 🌈 Colors Used
-| Element | Color | Hex Code |
-|----------|--------|----------|
-| Brand Blue | Blue Bottle Accent | `#00AEEF` |
-| Background | Light Beige / White | `#FFFFFF` |
-| Text | Black / Dark Gray | `#000000`, `#333333` |
+- **Poppins** – for headings and navigation (modern and clean)  
+- **Playfair Display** – for body and subheadings (classic and stylish)
 
 ---
 
-## 🧱 Layout Style
-- Clean grid-based structure  
-- Minimal icons and soft drop shadows  
-- Smooth visual flow from hero to footer  
+### 🌈 Colors Used
+| Element | Description | Hex Code |
+|----------|--------------|----------|
+| Primary Background | Soft Cream | `#FFFDF8` |
+| Secondary Background | White | `#FFFFFF` |
+| Primary Text | Black | `#000000` |
+| Secondary Text | Dark Gray | `#333333` |
+| Accent | Blue Bottle Brand Blue | `#00AEEF` |
+
+---
+
+## 🧱 Layout Highlights
+- Clean **grid-based layout** with even spacing  
+- Balanced sections for product, brand story, and visuals  
+- Improved **visual hierarchy** with clear typography levels  
+- Added consistent **button styles and card designs**  
+- Focused on **simplicity and premium presentation**
 
 ---
 
 ## 🧩 Tools Used
-- **Figma** – for UI design and prototyping  
-- **Poppins** & **Playfair Display** – for typography  
-- **Blue Bottle Coffee brand assets** – for product inspiration  
+- **Figma** – for layout design and alignment  
+- **Poppins** & **Playfair Display** – for typography styling  
+- **Blue Bottle Coffee imagery** – used for inspiration and structure
 
 ---
 
-## 🔗 Prototype Link
+## 🔗 Design Link
 👉 [View Figma Design](https://www.figma.com/design/rGdQpaNIW93xdRqUGyPu8O/%C2%A0Elevate%C2%A0Labs?node-id=97-47&t=4q7j0fc8K0m6Lk2W-1)
 
 ---
 
 ## 🏁 Outcome
-The redesigned homepage provides a **premium, user-friendly, and brand-consistent** experience.  
-It highlights products more effectively while maintaining Blue Bottle’s signature calm, minimal, and elegant tone.
-
----
-
-## 🧠 Designer
-**Ramavath Jagadeesh**
+The redesigned homepage offers:
+- A **minimal and premium** user interface  
+- Better **content flow** and **visual clarity**  
+- A **balanced combination of typography and color palette**
 
 ---
 
@@ -73,4 +64,3 @@ It highlights products more effectively while maintaining Blue Bottle’s signat
 
 ---
 
-⭐ *If you like this redesign, don’t forget to star this repository!*
