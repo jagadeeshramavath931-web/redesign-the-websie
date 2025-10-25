@@ -60,7 +60,7 @@ The redesigned homepage offers:
 ---
 
 ## 📸 Preview
-![Blue Bottle Coffee Redesign](./489d3907-e985-4590-a9f0-be163b495106.png)
+![Blue Bottle Coffee Redesign](https://bluebottlecoffee.com/us/eng)
 
 ---
 
