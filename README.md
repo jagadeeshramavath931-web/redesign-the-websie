@@ -60,7 +60,7 @@ The redesigned homepage offers:
 ---
 
 ## Website link
-[ViewDesign] (https://bluebottlecoffee.com/us/eng)
+[View] (https://bluebottlecoffee.com/us/eng)
 
 ---
 
